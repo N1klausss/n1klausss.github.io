@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Airtcle
-tags: [Test， Markdown]
+tags: [Markdown]
 ---
 
 ### test
